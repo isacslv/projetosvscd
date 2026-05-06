@@ -34,4 +34,6 @@ def jogar():
             if choice == "n":
                 print("Obrigado por jogar! Até a próxima!")
                 break
+
+
 jogar()

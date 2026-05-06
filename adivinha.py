@@ -1,6 +1,6 @@
 # pequeno projeto baseado na brincadeira de adivinhação, onde o computador escolhe um número aleatório e o usuário tem que adivinhar qual é esse número.
 # o programa deve fornecer feedback ao usuário se o palpite é muito baixo, muito alto ou correto, e contar o número de tentativas feitas pelo usuário.
-# fiz esse projeto baseado em uma aula que vi no youtube, nele a professora ensinava a usar a biblioteca random, e ela passou essa atividade para praticar o uso dessa biblioteca
+# fiz esse projeto baseado em uma aula que vi no youtube, nele a professora ensinava a usar a biblioteca random, e ela passou essa atividade para praticar o uso dessa biblioteca.
 import random
 
 numero_escolhido=input("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" \
